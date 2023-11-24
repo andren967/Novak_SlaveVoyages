@@ -1,0 +1,973 @@
+﻿port,port_id,region,long,lat
+Alicante,10101,Spain,0,0
+Barcelona,10102,Spain,2.18333,41.38333
+Bilbao,10103,Spain,-2.96667,43.25
+Cadiz,10104,Spain,-6.29944,36.53361
+Figuera,10105,Spain,0,0
+Gibraltar,10106,Spain,-5.35,36.13333
+La Coruña,10107,Spain,-8.38333,43.36667
+Santander,10110,Spain,-3.80444,43.46472
+Seville,10111,Spain,-5.98694,37.37722
+San Lucar,10112,Spain,-6.35,36.78333
+Vigo,10113,Spain,-8.72,42.23333
+Puerto Santa Maria,10115,Spain,-6.258837,36.639328
+"Spain, port unspecified",10199,Spain,-6.29944,36.53361
+Lagos,10202,Portugal,-8.66667,37.1
+Lisbon,10203,Portugal,-9.13333,38.71667
+Oporto,10204,Portugal,-8.61667,41.15
+Ilho do Fayal,10205,Portugal,-28.7,38.56667
+Setubal,10206,Portugal,-8.89307,38.5245
+"Portugal, port unspecified",10299,Portugal,-9.13333,38.71667
+"Great Britain, port unspecified",10399,Great Britain,-0.11667,51.5
+Barmouth,10401,England,0,0
+Bideford,10402,England,0,0
+Birkenhead,10403,England,0,0
+Bristol,10404,England,-2.58333,51.45
+Brixham,10405,England,0,0
+Broadstairs,10406,England,1.45,51.36667
+Cawsand,10407,England,0,0
+Chepstow,10408,England,0,0
+Chester,10409,England,-2.91667,53.2
+Colchester,10410,England,0.9,51.88333
+Cowes,10411,England,-1.3,50.76667
+Dartmouth,10412,England,-3.58333,50.35
+Deptford,10413,England,0,0
+Dover,10414,England,1.3,51.13333
+Exeter,10415,England,-3.53333,50.7
+Folkstone,10416,England,1.18333,51.08333
+Frodsham,10417,England,0,0
+Gainsborough,10418,England,0,0
+Greenwich,10419,England,0,0
+Guernsey,10420,England,-2.53333,49.45
+Harwich,10421,England,0,0
+Hull,10422,England,-0.33333,53.71667
+Ilfracombe,10423,England,0,0
+Ipswich,10424,England,1.16667,52.08333
+Isle of Man,10425,England,0,0
+Isle of Wight,10426,England,0,0
+Jersey,10427,England,0,0
+Kendal,10428,England,-2.75,54.31667
+King's Lynn,10429,England,0,0
+Lancaster,10430,England,-2.83333,54.06667
+Lindale,10431,England,0,0
+Liverpool,10432,England,-3,53.41667
+London,10433,England,-0.11667,51.5
+Lyme,10434,England,-2.93333,50.73333
+Maryport,10436,England,0,0
+Milford Haven,10437,England,-5.03333,51.71667
+New Shoreham,10438,England,-0.23333,50.83333
+Newcastle upon Tyne,10439,England,-1.61944,54.98806
+Newnham,10440,England,0,0
+North Shields,10441,England,0,0
+Northam,10442,England,0,0
+Norwich,10443,England,0,0
+Padstowe,10444,England,-4.93333,50.53333
+Parkgate,10445,England,-6.1,54.71667
+Piel of Foulney,10446,England,0,0
+Plymouth,10447,England,-4.13861,50.39639
+Poole,10448,England,-2,50.71667
+Portsery,10449,England,0,0
+Portsmouth,10450,England,-1.08333,50.76667
+Poulton,10451,England,-2.98333,53.83333
+Preston,10452,England,-2.72,53.76667
+Ramsgate,10453,England,0,0
+Ravenglass,10454,England,0,0
+River Thames,10455,England,0.40642,51.42687
+Rochester,10456,England,0,0
+Rotherhithe,10457,England,0,0
+Rye,10458,England,0,0
+Scarborough,10459,England,0,0
+Sheerness,10460,England,0,0
+Shields,10461,England,0,0
+Shoreham,10462,England,-0.23333,50.83333
+Sidmouth,10463,England,0,0
+Southampton,10464,England,-1.4,50.9
+Stockton,10466,England,-1.42,54.58333
+Stockwithe,10467,England,0,0
+Sunderland,10468,England,0,0
+Teignmouth,10469,England,0,0
+Topsham,10470,England,-3.45,50.68333
+Torbay,10471,England,0,0
+Wales,10472,England,-3.68431,52.35734
+Whitby,10473,England,-0.63056,54.48667
+Whitehaven,10474,England,-3.6,54.55
+Workington,10476,England,0,0
+Yarmouth,10477,England,-1.5,50.7
+Youghal,10478,England,0,0
+Conway,10479,England,0,0
+Falmouth (Eng.),10480,England,-5.07106,50.15599
+Lymehouse (a) Limehouse,10481,England,-0.035233,51.51324
+Lympstone,10485,England,-3.429485,50.648194
+"England, port unspecified",10499,England,-0.11667,51.5
+Airth,10501,Scotland,0,0
+Borrowstounness,10502,Scotland,0,0
+Dundee,10503,Scotland,0,0
+Glasgow,10504,Scotland,-4.25,55.83333
+Greenock,10505,Scotland,-4.75,55.93333
+Leith,10506,Scotland,-3.16667,55.95
+Lough Neagh,10507,Scotland,0,0
+Montrose,10508,Scotland,-2.45,56.7
+Ross,10509,Scotland,0,0
+Saltcoats,10510,Scotland,0,0
+"Largo, Fifeshire",10511,Scotland,0,0
+Dumfries,10512,Scotland,-3.6051198,55.070859
+Point Askaig,10513,Scotland,0,0
+Cambletown,10514,Scotland,-5.605374,55.424117
+Portpatrick,10515,Scotland,-5.116057,54.84279
+Erwin,10516,Scotland,0.0001235,0.0001235
+Aberdeen,10517,Scotland,-2.094278,57.149717
+Stranraer,10518,Scotland,-5.024055,54.903367
+Oban,10519,Scotland,-5.4710467,56.415157
+"Scotland, port unspecified",10599,Scotland,-4.01,56.78036
+Cork,10601,Ireland,-8.49583,51.89861
+Dublin,10602,Ireland,-7.55028,52.57444
+Dungarvan,10603,Ireland,0,0
+Galway,10604,Ireland,-9.04889,53.27194
+Kinsale,10605,Ireland,-8.52331,51.70644
+Limerick,10606,Ireland,-8.66652,52.66222
+Londonderry,10607,Ireland,0,0
+Ringsend,10608,Ireland,-7.59139,54.79472
+Strangford,10609,Ireland,0,0
+Waterford,10610,Ireland,-7.11,52.25833
+Wexford,10611,Ireland,0,0
+Belfast,10612,Ireland,-5.930119,54.597285
+Coleraine,10613,Ireland,-5.9301199,54.597285
+"Ireland, port unspecified",10699,Ireland,0,0
+Bayonne,10702,France,-1.48333,43.48333
+Bordeaux,10703,France,-0.56667,44.83333
+Brest,10704,France,-4.48333,48.4
+Calais,10705,France,0,0
+Camaret,10706,France,-2.63932,47.7442
+Dieppe,10707,France,1.08333,49.93333
+Dinard,10708,France,-2.0632,48.63055
+Dunkerque,10709,France,2.36667,51.05
+Honfleur,10710,France,0.23333,49.41667
+Ile de Batz,10711,France,-4.01737,48.74546
+La Rochelle,10712,France,-1.15,46.16667
+Le Havre,10713,France,0.13333,49.5
+Les Sables,10714,France,-1.98232,47.06284
+Lorient,10715,France,-3.36667,47.75
+Marseille,10716,France,5.4,43.3
+Mediterranean coast (France),10717,France,5.4,43.3
+Mindin,10718,France,-2.16667,47.26667
+Morlaix,10719,France,-3.83333,48.58333
+Nantes,10720,France,-1.55,47.21667
+Paimboeuf,10721,France,-2.03333,47.28333
+Port Louis,10722,France,-3.35587,47.70838
+Quimper,10723,France,0,0
+Rochefort,10724,France,-0.98333,45.93333
+Saint-Brieuc,10725,France,-2.78,48.51667
+Saint-Malo,10726,France,-2.01667,48.65
+Saint-Nazaire,10727,France,-2.21361,47.27432
+Saint-Tropez,10728,France,0,0
+Sète,10729,France,3.6966,43.40176
+Vannes,10730,France,-2.75,47.66667
+"France, port unspecified",10799,France,-1.55,47.21667
+Amsterdam,10810,Netherlands,4.91667,52.35
+Enkhuizen,10821,Netherlands,5.28,52.71667
+Hoorn ,10822,Netherlands,0,0
+Zaandam,10827,Netherlands,0,0
+Zuider Zee,10828,Netherlands,5.27,52.54562
+Texel,10829,Netherlands,4.81991,53.14933
+Rotterdam,10830,Netherlands,4.5,51.91667
+Dordrecht,10831,Netherlands,4.67,51.8
+Maze,10832,Netherlands,4.5986,51.7514
+Moerdijk,10833,Netherlands,4.62737,51.70202
+Hellevoetsluis,10834,Netherlands,4.13333,51.83333
+Zeeland,10840,Netherlands,3.77109,51.49647
+Middelburg,10850,Netherlands,3.61,51.5
+Vlissingen,10851,Netherlands,3.58333,51.45
+Veere,10852,Netherlands,3.66407,51.5451
+Zeeland or Middelburg,10853,Netherlands,0.0001235,0.0001235
+Groningen,10860,Netherlands,6.55,53.21667
+"Netherlands, port unspecified",10899,Netherlands,4.81991,53.14933
+København,10901,Denmark,12.58333,55.66667
+Husum,10902,Denmark,8.68,55.06667
+Helsingør,10903,Denmark,12.6135,56.0363
+"Denmark, port unspecified",10999,Denmark,0,0
+Pillau,11001,Northern Germany,19.91,54.65222
+Elbe,11002,Northern Germany,10,53.55
+Emden,11003,Northern Germany,7.21667,53.36667
+Hamburg,11004,Northern Germany,10,53.55
+Hanover,11005,Northern Germany,9.73201,52.375892
+Lübeck,11006,Northern Germany,10.686559,53.865467
+Glückstadt,11007,Northern Germany,9.42609,53.791191
+Northern Germany - port unspecified,11099,Northern Germany,0.0001235,0.0001235
+Antwerp,11101,Belgium,4.41667,51.21667
+Flanders,11102,Belgium,0,0
+Brugge,11103,Belgium,0.22524,51.2094
+"Belgium, port unspecified",11199,Belgium,4.41667,51.21667
+Tønsberg,11201,Norway,10.42,59.2858
+Bergen,11202,Norway,,
+"Norway, port unspecified",11299,Norway,0,0
+Göteborg,11301,Sweden,11.97,57.71667
+"Sweden, port unspecified",11399,Sweden,0,0
+Genova,11401,Italy,0,0
+Napoli,11402,Italy,14.25,40.83333
+Trieste,11404,Italy,13.78,45.64861
+"Italy, port unspecified",11499,Italy,0,0
+Kronstadt,11501,Russia,0,0
+Odessa,11502,Russia,30.73333,46.46667
+"Russia, port unspecified",11599,Russia,0,0
+Sardinia,11601,Mediterranean,0,0
+"Mediterranean, port unspecified",11699,Mediterranean,0,0
+"Latvia, port unspecified",11799,Latvia,21.564707,57.393722
+Bristol (RI),20101,Rhode Island,-71.2667,41.6769
+Little Compton,20102,Rhode Island,0,0
+Newport,20103,Rhode Island,-71.3133,41.49
+North Kingston,20104,Rhode Island,-71.46796,41.55401
+Providence,20105,Rhode Island,-71.4133,41.8239
+Tiverton,20106,Rhode Island,0,0
+Warren,20107,Rhode Island,-71.2831,41.7303
+Warwick,20108,Rhode Island,-71.4161671,41.7001009
+"Rhode Island, port unspecified",20199,Rhode Island,-71.31,41.49
+Bath,20201,Maine,0,0
+Berwick,20202,Maine,0,0
+Biddeford,20203,Maine,0,0
+Calais (Maine),20204,Maine,0,0
+Camden,20205,Maine,0,0
+Freeport,20207,Maine,0,0
+Portland,20208,Maine,-70.25665,43.65917
+Prospect,20209,Maine,0,0
+Richmond,20210,Maine,0,0
+Robbinston,20211,Maine,0,0
+Rockland,20212,Maine,0,0
+Sheepscutt River,20213,Maine,-69.6884,43.90509
+Wiscasset,20214,Maine,0,0
+Kittery Point,20215,Maine,-70.70783,43.083422
+Orrington,20216,Maine,-68.790463,44.72021
+Penobscot,20217,Maine,-68.711139,44.46452
+"Maine, port unspecified",20299,Maine,0,0
+Piscataqua,20301,New Hampshire,-70.79333,43.10056
+Portsmouth (NH),20302,New Hampshire,-70.7631,43.0717
+North Hampton,20303,New Hampshire,-70.77805,42.95718
+"New Hampshire, port unspecified",20399,New Hampshire,-70.7631,43.0717
+Massachusetts Bay,20401,Massachusetts,-70.50537,41.77422
+Amesbury,20402,Massachusetts,-70.93056,42.85833
+Arundel,20403,Massachusetts,0,0
+Boston,20404,Massachusetts,-71.05947,42.36166
+Chatham,20405,Massachusetts,0,0
+Cohasset,20406,Massachusetts,0,0
+Dighton,20407,Massachusetts,-71.12083,41.81389
+Duxbury,20408,Massachusetts,-70.67278,42.04167
+Freetown (Mass.),20409,Massachusetts,0,0
+Georgetown,20410,Massachusetts,0,0
+Hingham,20411,Massachusetts,0,0
+Kingston (Mass.),20412,Massachusetts,0,0
+Marblehead,20413,Massachusetts,-70.85659,42.50317
+Marshfield,20414,Massachusetts,0,0
+New Bedford,20415,Massachusetts,-70.93082,41.63768
+Newbury,20416,Massachusetts,-70.8778,42.8125
+Salem,20417,Massachusetts,-70.8972,42.5194
+Salisbury,20418,Massachusetts,0,0
+Salfatudas,20419,Massachusetts,0,0
+Scituate,20420,Massachusetts,0,0
+Swansea,20421,Massachusetts,-71.19028,41.74806
+Weymouth,20422,Massachusetts,0,0
+Charlestown,20423,Massachusetts,-71.06,42.3778
+Newburyport,20424,Massachusetts,-70.866667,42.8
+Nantucket,20425,Massachusetts,-70.099459,41.2834704
+Plymouth,20426,Massachusetts,-70.6672621,41.9584457
+Dartmouth,20427,Massachusetts,-70.9704787,41.6130323
+Somerset,20428,Massachusetts,-71.1286194,41.7695425
+"Massachusetts, port unspecified",20499,Massachusetts,-71.05947,42.36166
+Bridgeport,20501,Connecticut,0,0
+Guildford,20502,Connecticut,0,0
+Haddam,20503,Connecticut,0,0
+New Haven,20504,Connecticut,-72.93,41.3081
+New London,20505,Connecticut,-72.1,41.3556
+Middletown,20506,Connecticut,-72.64981,41.56269
+Hartford,20507,Connecticut,0,0
+Fairfield,20508,Connecticut,-73.261261,41.1408363
+Killingworth,20509,Connecticut,-72.56456,41.358187
+Weathersfield,20510,Connecticut,0.0001235,0.0001235
+"Connecticut, port unspecified",20599,Connecticut,0,0
+Brookhaven,20601,New York,0,0
+Long Island,20602,New York,0,0
+Sag Harbor,20603,New York,0,0
+New York,20699,New York,-74.00708,40.71458
+Wilmington,20701,Delaware,-75.5397878,39.7390721
+"Delaware, port unspecified",20799,Delaware,0,0
+Delaware River,20801,New Jersey,-75.51972,39.42028
+Eastern New Jersey,20802,New Jersey,-74.42643,39.36276
+Milwell,20803,New Jersey,0,0
+Perth Amboy,20804,New Jersey,-74.26577,40.50645
+Wharton,20805,New Jersey,0,0
+Burlington,20806,New Jersey,0.0001235,0.0001235
+Newark,20807,New Jersey,-74.1723667,40.735657
+Cohanzie,20808,New Jersey,-75.298121,39.491169
+"New Jersey, port unspecified",20899,New Jersey,0,0
+Marcus Hook,20901,Pennsylvania,0,0
+Philadelphia,20902,Pennsylvania,-75.1642,39.9522
+"Pennsylvania, port unspecified",20999,Pennsylvania,0,0
+Annapolis,21001,Maryland,-76.48524,38.94989
+Baltimore,21002,Maryland,-76.6125,39.2903
+North Potomac,21003,Maryland,-77.02721,38.85216
+Oxford,21004,Maryland,-76.2,38.7
+Pamunkey,21005,Maryland,-77.20444,37.66917
+Patuxent,21006,Maryland,-76.45123,38.30897
+Talbot County,21007,Maryland,0,0
+Wye River,21008,Maryland,-76.18,38.85825
+Cecil County,21009,Maryland,-75.946324,39.57394
+Choptank,21010,Maryland,-76.326615,38.634564
+Pocomoke,21011,Maryland,-76.407456,39.351002
+St. Mary's River,21012,Maryland,-76.539816,38.249979
+Londontowne,21013,Maryland,-76.558016,38.93575
+"Maryland, port unspecified",21099,Maryland,-76.45123,38.30897
+Elizabeth River,21101,Virginia,-76.35637,36.93469
+Hampton,21102,Virginia,-76.3456,37.0297
+Lower James River,21103,Virginia,-76.38292,36.95002
+Norfolk,21104,Virginia,-76.19325,36.93295
+Northampton County,21105,Virginia,0,0
+Potomac river,21106,Virginia,-76.27,37.91873
+Rappahannock,21107,Virginia,-76.38813,37.59826
+South Potomac,21108,Virginia,-76.52077,38.10394
+Upper James River,21109,Virginia,-77.42742,37.5184
+Williamsburg,21110,Virginia,0,0
+York River,21111,Virginia,-76.45376,37.2268
+Vatt (location undetermined),21112,Virginia,0,0
+Accomac,21113,Virginia,-75.665484,37.719574
+Urbanna,21114,Virginia,-76.574398,37.63764
+Richmond (VA),21115,Virginia,-77.436,37.5407
+Hampton Roads,21116,Virginia,-76.297149,37.04803
+"Virginia, port unspecified",21199,Virginia,-76.45376,37.2268
+Bertie County,21201,North Carolina,0,0
+Chowan river,21202,North Carolina,-76.70618,36.24285
+New Bern,21203,North Carolina,-77.0441143,35.108493
+Hyde County,21204,North Carolina,0,0
+Roanoke,21205,North Carolina,-75.6495,35.88368
+Beaufort,21206,North Carolina,-76.663819,34.718217
+Brunswick,21207,North Carolina,-78.202039,34.02754
+Cape Fear,21208,North Carolina,-78.484574,34.724508
+Edenton,21209,North Carolina,-76.6077212,36.057938
+Wilmington,21210,North Carolina,-77.94471,34.2257255
+"North Carolina, port unspecified",21299,North Carolina,-75.6495,35.88368
+Beaufort,21301,South Carolina,-80.67,32.43139
+Charleston,21302,South Carolina,-79.93554,32.78096
+Georgetown,21304,South Carolina,0.0001235,0.0001235
+"South Carolina, port unspecified",21399,South Carolina,-79.93554,32.78096
+Savannah,21401,Georgia,-81.1,32.0833
+Sunbury,21402,Georgia,0,0
+Tybee Island,21403,Georgia,-80.84567,32.00021
+"Cumberland Island,Georgia",21404,Georgia,81.4484,30.8511
+Jekyll Island,21405,Georgia,-81.421653,31.051124
+"Georgia, port unspecified",21499,Georgia,-81.1,32.0833
+St. Augustine,21501,Florida,-81.3147,29.8944
+Pensacola,21502,Florida,-87.1815,30.55812
+Amelia Island,21503,Florida,-81.442,30.687
+Key West,21504,Florida,-81.78403,24.55917
+Indian River,21505,Florida,0.0001235,0.0001235
+East Florida,21506,Florida,0.0001235,0.0001235
+"Florida, port unspecified",21599,Florida,-81.3147,29.8944
+New Orleans,21601,Gulf coast,-90.066667,29.95444
+La Balise,21602,Gulf coast,-89.1072,29.1222
+Louisiana,21603,Gulf coast,-92.67,29.52468
+Biloxi,21604,Gulf coast,-88.94993,30.39195
+Mississippi,21605,Gulf coast,-89.28,30.30501
+Mobile,21606,Gulf coast,-88.04306,30.69444
+Vicksburg (MS),21607,Gulf coast,-90.886714,32.317838
+"Gulf Coast, port unspecifed",21699,Gulf coast,-92.67,29.52468
+Quebec,21701,Canada,-71.25,46.8
+New Brunswick,21702,Canada,-65.2178,46.77556
+St. John,21703,Canada,0,0
+Newfoundland,21704,Canada,-57.42457,48.34364
+Nova Scotia,21705,Canada,-63.87373,44.87737
+Halifax,21706,Canada,-63.6,44.65
+Mahone Bay,21707,Canada,-64.30758,44.56642
+"Roseway, NS",21708,Canada,-65.349747,43.633266
+"Canada, port unspecified",21799,Canada,0,0
+Smithfield,21801,Kentucky,-85.254735,38.386762
+Louisville,21802,Kentucky,-85.666708,38.178077
+"Kentucky, port unspecified",21899,Kentucky,-84.27,37.8393
+Newport and Boston,21901,Other North America,0,0
+Newport and Salem,21902,Other North America,0,0
+New England,21903,Other North America,-69.17,44.12283
+Carolinas,21904,Other North America,-79.93554,32.78096
+"Washington, DC",21906,Virginia,-77.0368707,38.9071923
+"USA, location unspecified",21999,Other North America,-79.93554,32.78096
+Nashville,22001,Tennessee,-86.812866,36.149937
+"Tennessee, port unspecified",22099,Tennessee,-86.5804,35.5175
+Woodville,22101,Texas,-94.4155,30.7752
+"Texas, port unspecified",22199,Texas,-99.9018,31.9686
+Isabela,31102,Hispaniola,-71.25,18.45
+Monte Christi,31103,Hispaniola,-71.65,19.86667
+Samana,31104,Hispaniola,-69.32,19.21667
+San Domingo (a) Santo Domingo,31106,Hispaniola,0,0
+Ocoa,31107,Hispaniola,0,0
+Nizao,31108,Hispaniola,0,0
+Puerto de Plata,31109,Hispaniola,0,0
+Isla Saona,31110,Hispaniola,0,0
+"Hispaniola, unspecified",31199,Hispaniola,-69.9,18.46667
+San Juan,31201,Puerto Rico,-66.10572,18.46633
+Ponce,31202,Puerto Rico,-66.6141,18.0111
+"Puerto Rico, port unspecified",31299,Puerto Rico,-66.10572,18.46633
+Bahia Honda,31301,Cuba,-83.15917,22.90361
+Banes,31302,Cuba,-75.71861,20.9625
+Cabanas,31303,Cuba,-82.92194,22.97583
+Caibarien,31304,Cuba,-79.46694,22.52056
+Canasí,31305,Cuba,-81.78139,23.1125
+Cardenas,31306,Cuba,-81.20472,23.0375
+Cienfuegos,31307,Cuba,-80.43556,22.14611
+"Cuba, south coast",31308,Cuba,-75.73811,19.95076
+"Cuba, west coast",31309,Cuba,-83.38027,22.91945
+Estuary of River Guane,31310,Cuba,-84.08389,22.20056
+Guanimar,31311,Cuba,-82.65361,22.68833
+Havana,31312,Cuba,-82.36417,23.13194
+Isla de Pinas,31313,Cuba,-82.82405,21.68331
+"Magari, Manzanillo",31314,Cuba,-77.11667,20.34333
+Mariel,31315,Cuba,-82.75361,22.9875
+Matanzas,31316,Cuba,-81.5775,23.04111
+"Matanzas province, north",31317,Cuba,-81.5775,23.04111
+"Matanzas province, south",31318,Cuba,-81.5775,23.04111
+Nuevitas,31319,Cuba,-77.26444,21.54528
+Puerto Padre,31320,Cuba,-76.60278,21.195
+Sagua,31321,Cuba,-80.07556,22.80667
+San Juan de los Remedios,31322,Cuba,-79.54583,22.49472
+Santiago de Cuba,31323,Cuba,-75.82194,20.02472
+Trinidad de Cuba,31324,Cuba,-79.98417,21.80194
+Batabanó ,31326,Cuba,0,0
+Baracoa,31327,Cuba,0,0
+Punta Macurijes,31328,Cuba,-78.486667,21.028056
+South Keys,31329,Cuba,0.0001235,0.0001235
+Puerto Principe,31330,Cuba,0.0001235,0.0001235
+Holguín,31331,Cuba,0.0001235,0.0001235
+Bacuranao,31332,Cuba,-82.239824,23.174483
+"Cuba, port unspecified",31399,Cuba,-79.221991,22.39915
+San Andrés,31401,Other Spanish Caribbean,0.0001235,0.0001235
+"Spanish Caribbean, unspecified",31499,Other Spanish Caribbean,-69.9,18.46667
+Curaçao,32110,Dutch Caribbean,-68.91667,12.1
+Aruba,32120,Dutch Caribbean,-70.03333,12.51667
+Bonaire,32130,Dutch Caribbean,-68.5,12.2
+St. Maarten,32140,Dutch Caribbean,-63.03333,18.1
+Cul de Sac (St. Maarten),32141,Dutch Caribbean,-63.03,18.1
+St. Eustatius,32150,Dutch Caribbean,-62.98333,17.46667
+Saba,32151,Dutch Caribbean,-63.24919,17.6259
+"Dutch Caribbean, colony unspecified",32199,Dutch Caribbean,-68.91667,12.1
+Guiana,32201,Dutch Guianas,-55.67599,5.95859
+Nova Zeelandia (Wild Coast),32202,Dutch Guianas,-55.67599,5.95859
+Essequibo,32230,Dutch Guianas,-58.35479,7.04396
+Suriname,32240,Dutch Guianas,-55.67599,5.95859
+Paramaribo,32241,Dutch Guianas,-55.16667,5.83333
+Berbice,32250,Dutch Guianas,-57.93,6.6713
+"Dutch Guianas, colony unspecified",32299,Dutch Guianas,-55.67599,5.95859
+Bijsterpan,32301,Other Dutch Americas,0.0001235,0.0001235
+"Other Dutch Americas, colony unspecified",32399,Other Dutch Americas,0,0
+"Tortola, port unspecified",33299,Tortola,-64.72,18.34732
+"Anguilla, port unspecified",33399,Anguilla,-63.05,18.21667
+Saint John (Antigua),33401,Antigua,-61.85,17.11667
+Barbuda,33402,Other British Caribbean,-61.770729,21.398318
+"Antigua, port unspecified",33499,Antigua,-61.85,17.11667
+"St. Kitts, port unspecified",33599,St. Kitts,-62.71667,17.3
+Newcastle (Nevis),33601,Nevis,-62.58333,17.2
+"Nevis, port unspecified",33699,Nevis,-62.58333,17.2
+"Montserrat, port unspecified",33799,Montserrat,-62.21667,16.7
+Roseau,33801,Dominica,-61.3793554,15.3091676
+St. Marc,33802,Dominica,-61.344352,15.219592
+"Dominica, port unspecified",33899,Dominica,-61.4,15.3
+"St. Lucia, port unspecified",34199,St. Lucia,-61,14
+King's Harbour,34201,Barbados,-59.62,13.1
+Speightstown,34202,Barbados,-59.637713,13.253123
+"Barbados, port unspecified",34299,Barbados,-59.6,13.1
+"St. Vincent, port unspecified",34399,St. Vincent,-61.21667,13.13333
+"Grenada, port unspecified",34499,Grenada,-61.75,12.05
+"Trinidad, port unspecified",34599,Trinidad,-61.51667,10.65
+Zion Hill,34601,Tobago,-60.61667,11.23333
+"Tobago, port unspecified",34699,Tobago,-60.66667,11.25
+Annotto Bay,35101,Jamaica,-76.76667,18.26667
+Antonia,35102,Jamaica,-76.46667,18.18333
+Black River,35103,Jamaica,-77.85,18.01667
+Falmouth (Jam.),35104,Jamaica,-77.65,18.5
+Lucea (a) St. Lucea,35105,Jamaica,-78.16667,18.45
+Martha Brae,35106,Jamaica,-77.65,18.46667
+Montego Bay,35107,Jamaica,-77.91667,18.46667
+Morant Bay,35108,Jamaica,-76.42,17.88333
+Port Maria,35109,Jamaica,-76.9,18.36667
+Port Royal,35110,Jamaica,-76.92,17.9333
+Saint Ann's Bay,35111,Jamaica,-77.2,18.43333
+Savanna la Mar,35112,Jamaica,-78.13333,18.21667
+Spanish Town,35113,Jamaica,-76.95,17.98333
+Kingston,35114,Jamaica,-76.8,17.98333
+"Jamaica, port unspecified",35199,Jamaica,-76.8,17.98333
+New Providence,35201,Bahamas,-77.39683,24.99364
+Turk's Island,35202,Bahamas,-71.11667,21.4
+Nassau,35203,Bahamas,-77.38108,25.07606
+Cat Island,35204,Bahamas,0.0001235,0.0001235
+Exuma,35205,Bahamas,-75.969546,23.61926
+Heneague,35206,Bahamas,0.0001235,0.0001235
+"Bahamas, port unspecified",35299,Bahamas,-78.7,26.53333
+Cumingsberg,35301,British Guiana,-58.16667,6.81667
+Stabroek,35302,British Guiana,-58.15,6.81667
+Demerara,35304,British Guiana,-58.168711,6.810204
+Kingston (Demerera),35305,British Guiana,-58.17,6.81667
+"British Guina, port unspecified",35399,British Guiana,0.0001235,0.0001235
+Mosquito Shore,35401,British Honduras,-83.38333,14.03333
+"British Honduras, port unspecified",35499,British Honduras,-88.188611,17.498611
+Antigua or Dominica,35502,Other British Caribbean,0,0
+Barbados and Jamaica,35503,Other British Caribbean,0,0
+Dominica or Jamaica,35504,Other British Caribbean,0,0
+Jamaica or St. Kitts,35505,Other British Caribbean,0,0
+British Leewards,35507,Other British Caribbean,-63.05,18.21667
+Bermuda,35508,Other British Caribbean,-64.78389,32.29417
+Hamilton (Bermuda),35509,Other British Caribbean,-64.78389,32.29417
+Becquia,35510,Other British Caribbean,-61.227231,13.011706
+Grand Caymans,35511,Other British Caribbean,-81.240869,19.32217
+Providence Island,35512,Other Spanish Caribbean,-81.372937,13.338761
+"British Caribbean, colony unspecified",35599,Other British Caribbean,-76.8,18
+Fort-Royale,36101,Martinique,-61.08333,14.6
+Saint-Pierre,36102,Martinique,-61.16667,14.73333
+"Martinique, port unspecified",36199,Martinique,-61.16667,14.63333
+Basse-Terre,36201,Guadaloupe,-61.71667,16
+Pointe-à-Pitre,36202,Guadaloupe,-61.51667,16.23333
+Marie-Galante,36203,Guadaloupe,-61.26667,15.93333
+"Grande-Terre, port unspecified",36204,Guadaloupe,-61.4669,16.2732
+"Guadeloupe, port unspecified",36299,Guadaloupe,-61.71667,16
+Cayenne,36301,French Guiana,-52.33333,4.93333
+Oyapock,36302,French Guiana,-51.8,3.9
+"French Guiana, port unspecified",36399,French Guiana,0,0
+Tortuga,36401,Saint-Domingue,-72.78667,20.04634
+Arcahaie,36402,Saint-Domingue,-72.5125,18.76944
+Cap Français,36403,Saint-Domingue,-72.204,19.75
+Cayes (Les),36404,Saint-Domingue,-73.75,18.2
+Cul-de-Sac,36405,Saint-Domingue,-72.36667,19.06667
+Fort Dauphin,36406,Saint-Domingue,-71.83972,19.66778
+Jacmel,36407,Saint-Domingue,-72.53472,18.23417
+Jérémie,36408,Saint-Domingue,-74.11667,18.65
+Léogane,36409,Saint-Domingue,-72.63389,18.51083
+Môle Saint Nicolas,36410,Saint-Domingue,-73.38,19.8
+Petit-Goâve,36411,Saint-Domingue,-72.86694,18.43139
+Port-au-Prince,36412,Saint-Domingue,-72.335,18.53917
+Port-de-Paix,36413,Saint-Domingue,-72.83087,19.93276
+Saint-Marc,36414,Saint-Domingue,-72.7,19.11667
+Île à Vache,36415,Saint-Domingue,-73.6512,18.0694
+Cap Tiberon,36416,Saint-Domingue,0.0001235,0.0001235
+Gonaïve,36420,Saint-Domingue,72.680158,19.45115
+"Saint-Domingue, port unspecified",36499,Saint-Domingue,-72.20417,19.75778
+"French Caribbean, colony unspecified",36599,Other French Caribbean,-72.20417,19.75778
+St. Croix,37010,Danish West Indies,-64.82,17.77305
+St. Thomas,37020,Danish West Indies,-64.94,18.34141
+St. John (Virgin Islands),37030,Danish West Indies,-64.7399494,18.3274718
+"Spanish Town, British Virgin Islands",37040,Other British Caribbean,-64.430411,18.449853
+"Danish West Indies, colony unspecified",37099,Danish West Indies,-64.8,18.02
+"Gustavia, St. Barthélemy",38101,St. Barthélemy (Sweden),-62.8317,17.9002
+"St. Barthélemy, port unspecified",38199,St. Barthélemy (Sweden),-62.83333,17.9
+Caribbean (colony unspecified),39001,Other Caribbean,-70,20
+West Indies (colony unspecified),39002,Other Caribbean,-70,20
+Orici,39003,Other Caribbean,0.0001235,0.0001235
+Bottomaneau,39004,Other Caribbean,0.0001235,0.0001235
+Bottomaneau (location undetermined),39040,Codes without labels,0.0001235,0.0001235
+"Caribbean, port unspecified",39999,Other Caribbean,0,0
+New Spain,41201,Spanish Circum-Caribbean,-87.609757,18.983208
+Campeche,41202,Spanish Circum-Caribbean,-90.53333,19.85
+Veracruz,41203,Spanish Circum-Caribbean,-96.13,19.17
+Guatemala,41204,Spanish Circum-Caribbean,-88.7,15.8
+Santo Tomas,41205,Spanish Circum-Caribbean,-88.61667,15.7
+Portobelo,41206,Spanish Circum-Caribbean,-79.65,9.55
+Cartagena,41207,Spanish Circum-Caribbean,-75.51444,10.39972
+Santa Marta,41208,Spanish Circum-Caribbean,-74.20167,11.24722
+Venezuela,41210,Spanish Circum-Caribbean,-67.96444,10.44528
+Borburata,41211,Spanish Circum-Caribbean,-67.96444,10.44528
+Caracas,41212,Spanish Circum-Caribbean,-66.91667,10.5
+Cumana,41213,Spanish Circum-Caribbean,-64.16667,10.46667
+La Guaira,41214,Spanish Circum-Caribbean,-66.9333,10.6
+Margarita,41215,Spanish Circum-Caribbean,-64.08,10.95
+Orinoko,41216,Spanish Circum-Caribbean,-60.54,8.86343
+Rio de la Hacha,41217,Spanish Circum-Caribbean,-72.90722,11.54444
+Darien,41218,Spanish Circum-Caribbean,0.0001235,0.0001235
+Nombre de Dios,41219,Spanish Circum-Caribbean,-79.47031,9.58289
+Rattan (a) Roatán,41220,British Honduras,-86.529967,16.329761
+Puerto Caballo,41221,Spanish Circum-Caribbean,-68.029865,10.469769
+Isla de Aves,41222,Spanish Circum-Caribbean,-63.616667,15.683333
+Coro,41223,Spanish Circum-Caribbean,-69.67,11.4
+Maracaibo,41224,Spanish Circum-Caribbean,-71.61,10.67
+Nueva Barcelona,41225,Spanish Circum-Caribbean,-64.69,10.14
+"Guayana, Venezuela",41226,Spanish Circum-Caribbean,-61,8.58
+Caracas Coast and Tucacas,41227,Spanish Circum-Caribbean,-66.91667,10.5
+San Juan de los Cayos,41228,Spanish Circum-Caribbean,-68.4099,11.1738
+Trujillo,41252,Spanish Circum-Caribbean,-85.953447,15.911679
+"Honduras, port unspecified",41298,Spanish Circum-Caribbean,-86.791901,15.770288
+"Spanish Circum-Caribbean,unspecified",41299,Spanish Circum-Caribbean,-75.479426,10.391049
+Buenos Aires,42001,Rio de la Plata,-58.380846,-34.574625
+Montevideo,42002,Rio de la Plata,-56.17083,-34.85806
+Colonia de Sacramento,42003,Rio de la Plata,-57.85,-34.4667
+Maldonado,42004,Rio de la Plata,-54.95,-34.9
+Río Negro,42005,Rio de la Plata,-62.8141666,-41.0216666
+Punta del Este,42007,Rio de la Plata,-54.95,-34.96667
+"Rio de la Plata, port unspecified",42099,Rio de la Plata,0,0
+Lima,43001,Peru,0,0
+"Peru, port unspecified",43099,Peru,0,0
+Valparaiso,44001,Chile,-71.6127,-33.0472
+Talcahuano,44002,Chile,-73.117,-36.7248
+"Ecuador, port unspecified",45099,Ecuador,-79.9224,-2.171
+Maranhão,50102,Amazonia,-44.26667,-2.51667
+Pará,50103,Amazonia,-48.48333,-1.45
+Guajano,50104,Amazonia,0,0
+Rio Amazona,50105,Amazonia,0,0
+Ceará (port unspecified),50106,Amazonia,-38.492876,-3.803193
+Macapá,50107,Amazonia,-51.070535,0.035574
+Belém,50108,Amazonia,-48.490197,-1.455779
+São Luis,50109,Amazonia,-44.2829,-2.5391
+Aracaty,50110,Amazonia,37.7689,4.5612
+Tapajé,50111,Amazonia,-,-
+"Amazonia, port unspecified",50199,Amazonia,0,0
+Pôrto Seguro,50201,Bahia,-39.26418,-16.444167
+Rio Real,50202,Bahia,-37.36667,-11.45
+Rio São Francisco,50203,Bahia,-38.2604,-9.3319
+Taipu,50204,Bahia,-35.6,-5.61667
+"Bahia, port unspecified",50299,Bahia,-38.51083,-12.97111
+Alagoas province,50301,Pernambuco,-35.85,-9.78362
+Ilha de Itamaric ,50302,Pernambuco,-34.85064,-7.75772
+Maceió,50303,Pernambuco,-35.72,-9.66667
+Catuamo and Maria Farinha,50304,Pernambuco,-34.83333,-7.85
+Porto de Galinhas,50305,Pernambuco,-34.88111,-8.05389
+Paraíba,50306,Pernambuco,-34.94216,-6.78027
+Rio Grande do Norte,50307,Pernambuco,-35.20944,-5.795
+Fernando de Noronha,50309,Pernambuco,0,0
+Recife,50311,Pernambuco,-34.9286,-8.0522
+"Pernambuco, port unspecified",50399,Pernambuco,-34.88111,-8.05389
+Baía de Botafogo,50402,Southeast Brazil,-43.23333,-22.9
+Baía de Sepetiba,50403,Southeast Brazil,-43.70083,-22.98167
+Cabo de Búzios,50404,Southeast Brazil,-41.96,-22.77
+Cabo Frio,50405,Southeast Brazil,-42.01667,-22.88333
+Campos,50406,Southeast Brazil,-41.3,-21.75
+Cananéia,50407,Southeast Brazil,-47.95,-25.0167
+Copacabana,50408,Southeast Brazil,-43.18333,-22.96667
+Dois Rios,50409,Southeast Brazil,-44.18333,-23.18333
+Ilha de Paquetá ,50410,Southeast Brazil,-43.10917,-22.75944
+Ilha das Palmas,50411,Southeast Brazil,-45.06,-23.5395
+Ilha Grande,50412,Southeast Brazil,-44.23784,-23.15032
+Ilha de Lobes,50413,Southeast Brazil,-49.7,-29.33333
+Ilha de Marambaia,50414,Southeast Brazil,-43.92694,-22.9993
+Macaé,50416,Southeast Brazil,-41.78333,-22.38333
+Mangaratiba,50417,Southeast Brazil,-44.03333,-22.95
+Maricá,50418,Southeast Brazil,-42.81667,-22.91667
+Paranaguá,50419,Southeast Brazil,-48.5,-25.51667
+Parati,50420,Southeast Brazil,-44.71667,-23.21667
+Ponta Negro,50421,Southeast Brazil,-35.16667,-5.88333
+Rio de Janeiro,50422,Southeast Brazil,-43.23333,-22.9
+Rio de Janeiro province,50423,Southeast Brazil,-43.57,-23.02
+"Rio de Janeiro, Sao Paulo, Santa Catarina",50424,Southeast Brazil,-45.99,-23.79
+Rio Grande do Sul Province,50426,Southeast Brazil,-51.2,-30.03333
+Rio São Jeso,50427,Southeast Brazil,-46.68908,-24.07233
+Santos,50428,Southeast Brazil,-46.33333,-23.95
+São Sebastião,50430,Southeast Brazil,-45.41667,-23.8
+Santa Catarina,50431,Southeast Brazil,-48.47185,-27.45972
+Ubatuba,50433,Southeast Brazil,-45.06667,-23.43333
+Vitória,50434,Southeast Brazil,-40.35,-20.31667
+Laguna,50435,Southeast Brazil,-48.78,-28.48
+Ilha dos Porcos,50436,Southeast Brazil,-41.98333,-22.96667
+São Vicente,50437,Southeast Brazil,-46.33333,-23.95
+Espírito Santo,50438,Southeast Brazil,-40.29,-20.29
+"Southeast Brazil, port unspecified",50499,Southeast Brazil,0,0
+"Brazil, port unspecified",50599,Other Brazil,-39.192103,-17.527779
+Albreda,60101,Senegambia and offshore Atlantic,-16.38667,13.33444
+Arguim,60102,Senegambia and offshore Atlantic,-16.46,20.59569
+Bissagos,60103,Senegambia and offshore Atlantic,-16.12037,11.20143
+Bissau,60104,Senegambia and offshore Atlantic,-15.58333,11.85
+Cacheu,60105,Senegambia and offshore Atlantic,-16.16583,12.27056
+Casamance,60106,Senegambia and offshore Atlantic,-16.71318,12.57115
+Galam,60107,Senegambia and offshore Atlantic,0,0
+Gambia,60108,Senegambia and offshore Atlantic,-16.5775,13.45306
+Gorée,60109,Senegambia and offshore Atlantic,-17.39917,14.66861
+James Fort,60110,Senegambia and offshore Atlantic,-16.39101,13.30641
+"Joal, or Saloum River",60111,Senegambia and offshore Atlantic,-16.83333,14.16667
+Oibo,60112,Senegambia and offshore Atlantic,0,0
+Portudal,60113,Senegambia and offshore Atlantic,-17.0125,14.43833
+Portuguese Guinea,60114,Senegambia and offshore Atlantic,-15.80105,12.24788
+Rio Bolola,60115,Senegambia and offshore Atlantic,0,0
+Rio Bramiah,60116,Senegambia and offshore Atlantic,0,0
+Rio Grande,60117,Senegambia and offshore Atlantic,-15.49403,11.5049
+Saint-Louis,60118,Senegambia and offshore Atlantic,-16.5,16.12
+French Africa (Goree or Senegal),60119,Senegambia and offshore Atlantic,-16.78333,15.38333
+Cape Verde Islands,60126,Senegambia and offshore Atlantic,-22.93875,16.1018
+Santa Catarina do Fogo,60127,Senegambia and offshore Atlantic,0,0
+Madeira,60128,Senegambia and offshore Atlantic,-16.9,32.63333
+Azores,60129,Senegambia and offshore Atlantic,0,0
+Canary Islands,60141,Senegambia and offshore Atlantic,-15.7604,28.15108
+Tenerife,60142,Senegambia and offshore Atlantic,-16.17164,28.54603
+"Senegambia and offshore Atlantic, port unspecified",60199,Senegambia and offshore Atlantic,-16.78333,15.38333
+Banana Islands,60201,Sierra Leone,-13.22867,8.10473
+Bance Island (Ben's Island),60202,Sierra Leone,-13.00356,8.57051
+Ben's Island,60203,Sierra Leone,0,0
+Cacandia,60204,Sierra Leone,-14.57,10.78202
+Côte de Malaguette (runs through to Cape Palmas on Windward Coast),60205,Sierra Leone,-10.95,5.78306
+Delagoa,60206,Sierra Leone,32.71726,-26.21967
+Freetown,60207,Sierra Leone,-13.23,8.49
+Gallinhas,60208,Sierra Leone,-12.04157,7.26016
+Garraway Roads,60209,Sierra Leone,-7.9331,4.4969
+Iles de Los,60210,Sierra Leone,-13.79534,9.48039
+Iles Plantain,60211,Sierra Leone,-12.98778,7.9125
+Rio Nunez,60212,Sierra Leone,-14.6379,10.58216
+Rio Pongo,60213,Sierra Leone,-14.06157,10.13756
+Scarcies,60214,Sierra Leone,-13.21464,8.93872
+Settra Kou,60216,Sierra Leone,-8.84583,4.89917
+Sherbro,60217,Sierra Leone,-12.70415,7.57325
+Siraboom,60218,Sierra Leone,0,0
+Sugary (Siekere),60219,Sierra Leone,-11.39,6.84667
+Sierra Leone estuary,60220,Sierra Leone,-13.17066,6.49613
+Mano,60241,Sierra Leone,-11.28333,6.98333
+River Kissey,60242,Sierra Leone,-13.1204,8.50013
+"Sierra Leone, port unspecified",60299,Sierra Leone,-13.23,8.3
+Barason,60301,Windward Coast,0,0
+Bassa,60302,Windward Coast,-10.14983,5.98
+Batoa,60303,Windward Coast,0,0
+Bercou,60304,Windward Coast,0,0
+Cap des Palmes,60305,Windward Coast,0,0
+Cape Mount (Cape Grand Mount),60306,Windward Coast,-11.30905,6.70407
+Cape Petit Mount,60307,Windward Coast,-11.17771,6.64697
+Cape Grand Mount,60308,Windward Coast,-11.35807,6.73776
+Cape Lahou,60309,Windward Coast,-5.02417,5.13667
+Cess,60310,Windward Coast,-9.48292,5.35661
+Grand Cess,60311,Windward Coast,-8.22,4.57139
+Petit Cess,60312,Windward Coast,0,0
+Dembia,60313,Windward Coast,0,0
+Drouin,60314,Windward Coast,-6.15,4.91667
+Grand Bassa,60315,Windward Coast,-10.0625,5.91111
+Little Bassa,60316,Windward Coast,-10.15,5.97111
+Grand Bassam,60317,Windward Coast,-3.735,5.20194
+Grand Junk,60318,Windward Coast,-10.65381,6.23689
+Little Junk,60319,Windward Coast,-10.47533,6.19013
+Grand Mesurado,60321,Windward Coast,-10.80919,6.31912
+Petit Mesurado,60322,Windward Coast,-10.81224,6.41855
+Rio Assini,60324,Windward Coast,-3.28,5.12361
+Rio Cavalie,60325,Windward Coast,0,0
+Rio Sinou,60326,Windward Coast,0,0
+River Kissey,60327,Windward Coast,-13.1204,8.50013
+Sassandra,60328,Windward Coast,-6.08333,4.95
+Grand Sestos,60329,Windward Coast,-10.03414,5.85183
+Rock Sestos,60330,Windward Coast,-10.03414,5.85183
+St. Paul,60331,Windward Coast,-10.79246,6.38
+Tabou,60332,Windward Coast,-7.35,4.41667
+Trade Town,60333,Windward Coast,-9.85,5.8
+Liberia,60334,Windward Coast,-10.77972,6.3175
+Ivory Coast,60335,Windward Coast,-4.88,5.16595
+Young Sestos,60336,Windward Coast,0,0
+Little Sestos,60337,Windward Coast,0,0
+Kru Settra,60338,Windward Coast,0,0
+Cape Palmas,60339,Windward Coast,0,0
+Settra Kru,60340,Windward Coast,0,0
+"Windward Coast, port unspecified",60399,Windward Coast,-11.30905,6.70407
+Danish Gold Coast,60402,Gold Coast,-0.1993,5.54189
+Acoda (Akka or Acquida),60403,Gold Coast,0,0
+Accra,60404,Gold Coast,-0.21667,5.55
+Alampo,60405,Gold Coast,-0.9159,5.29074
+Anomabu and Apam,60407,Gold Coast,0,0
+Anomabu,60408,Gold Coast,-1.1167,5.1667
+Apammin,60409,Gold Coast,-0.73333,5.28333
+Apollonia,60410,Gold Coast,-2.36472,4.93489
+Axim,60411,Gold Coast,-2.24139,4.86833
+Cape Coast Castle,60412,Gold Coast,-1.11662,5.18251
+Chama,60413,Gold Coast,0,0
+Christiansborg,60414,Gold Coast,-0.18333,5.55
+Elmina,60415,Gold Coast,-1.35,5.08333
+Eva,60416,Gold Coast,0,0
+Kormantine,60417,Gold Coast,-1.08333,5.2
+Lagoo,60418,Gold Coast,0,0
+Mouree,60419,Gold Coast,-1.15828,5.16328
+Ningo,60420,Gold Coast,0,0
+Rio Volta,60421,Gold Coast,0,0
+Sekondi,60422,Gold Coast,0,0
+Siekere,60423,Gold Coast,0,0
+Tantumquerry,60424,Gold Coast,0,0
+Wiamba,60425,Gold Coast,-0.61667,5.33333
+Gold Coast from Kormatine to Accra,60426,Gold Coast,-0.56,5.35784
+Gold Coast east of Kormantine,60427,Gold Coast,-0.56,5.35784
+Pokesoe (Princes Town),60428,Gold Coast,-2.13472,4.79361
+Boutry,60429,Gold Coast,0,0
+Takoradi,60431,Gold Coast,-1.740633,4.884592
+"Gold Coast, port unspecified",60499,Gold Coast,-1.0992,5.19077
+Benin,60501,Bight of Benin,5.6145,6.3176
+Costa da Mina,60502,Bight of Benin,0,0
+Aghway,60503,Bight of Benin,1.48,6.19889
+Agora,60504,Bight of Benin,0,0
+Amokou,60505,Bight of Benin,0,0
+Ardra,60506,Bight of Benin,2.2,6.4
+Badagry/Apa,60507,Bight of Benin,3.05,6.41667
+Dixcove,60508,Bight of Benin,-1.95,4.8
+Epe,60509,Bight of Benin,2.88333,6.41667
+Popo,60510,Bight of Benin,1.69,6.26333
+Little Popo,60511,Bight of Benin,1.6,6.23333
+Grand Popo,60512,Bight of Benin,1.83333,6.28333
+Ife,60513,Bight of Benin,0,0
+Jacquin,60514,Bight of Benin,2.51364,6.36984
+Whydah,60515,Bight of Benin,2.08333,6.36667
+Keta,60516,Bight of Benin,0.98333,5.91667
+"Lagos, Onim",60517,Bight of Benin,3.39583,6.45306
+Lamo River,60518,Bight of Benin,0,0
+Lay,60519,Bight of Benin,0,0
+Legas,60520,Bight of Benin,0,0
+Oerê,60521,Bight of Benin,5.08,5.75
+Pataquery,60522,Bight of Benin,0,0
+Porto Novo,60523,Bight of Benin,2.61667,6.48333
+Rio Forcados,60524,Bight of Benin,5.28,5.38641
+Rio Nazareth,60525,Bight of Benin,0,0
+Rio Nun,60526,Bight of Benin,6.04958,4.31328
+"Bristol Island, Nazareth",60530,Bight of Benin,0,0
+"Bight of Benin, port unspecified",60599,Bight of Benin,2.08333,6.36667
+Andony,60601,Bight of Biafra and Gulf of Guinea islands,7.19,4.47865
+Barabalemo,60602,Bight of Biafra and Gulf of Guinea islands,0,0
+Bilbay,60603,Bight of Biafra and Gulf of Guinea islands,0,0
+Bimbia,60604,Bight of Biafra and Gulf of Guinea islands,9.245,3.95444
+Bonny,60605,Bight of Biafra and Gulf of Guinea islands,7.16667,4.43333
+Bundy,60607,Bight of Biafra and Gulf of Guinea islands,0,0
+Calabar,60608,Bight of Biafra and Gulf of Guinea islands,8.31667,4.95
+Cameroons,60609,Bight of Biafra and Gulf of Guinea islands,9.58062,3.91309
+Cameroons River,60610,Bight of Biafra and Gulf of Guinea islands,9.58062,3.91309
+Cape Baxos,60611,Bight of Biafra and Gulf of Guinea islands,0,0
+Cap Lopez,60612,Bight of Biafra and Gulf of Guinea islands,8.71155,-0.6254
+Cap Lopez And Cabo Santa Catarina,60613,Bight of Biafra and Gulf of Guinea islands,8.71155,-0.6254
+Cape Lopez and Annobon,60614,Bight of Biafra and Gulf of Guinea islands,0,0
+Corisco,60615,Bight of Biafra and Gulf of Guinea islands,9.31701,0.91457
+Corisco and Princes Island,60616,Bight of Biafra and Gulf of Guinea islands,7.4405,1.56285
+Fockey,60617,Bight of Biafra and Gulf of Guinea islands,0,0
+Forke,60618,Bight of Biafra and Gulf of Guinea islands,0,0
+Formosa,60619,Bight of Biafra and Gulf of Guinea islands,6.02588,4.31221
+Gabon,60620,Bight of Biafra and Gulf of Guinea islands,9.89337,0.20739
+Liverpool River,60621,Bight of Biafra and Gulf of Guinea islands,0,0
+New Calabar,60622,Bight of Biafra and Gulf of Guinea islands,6.9758,4.5742
+Quaqua,60623,Bight of Biafra and Gulf of Guinea islands,0,0
+River Brass,60624,Bight of Biafra and Gulf of Guinea islands,6.50705,4.32939
+River del Rey,60625,Bight of Biafra and Gulf of Guinea islands,8.65,4.73333
+Timbeys,60626,Bight of Biafra and Gulf of Guinea islands,0,0
+Rio Nazareth,60627,Bight of Biafra and Gulf of Guinea islands,0,0
+Calabary,60628,Bight of Biafra and Gulf of Guinea islands,8.31,4.17
+Gulf of Guinea islands,60660,Bight of Biafra and Gulf of Guinea islands,0,0
+Annobon,60661,Bight of Biafra and Gulf of Guinea islands,-1.40139,5.6325
+Epee and Princes Islands,60662,Bight of Biafra and Gulf of Guinea islands,0,0
+Fernando Po,60663,Bight of Biafra and Gulf of Guinea islands,8.7,3.49
+Fernando Po and Cameroons,60664,Bight of Biafra and Gulf of Guinea islands,0,0
+Fernando Po and Princes Islands,60665,Bight of Biafra and Gulf of Guinea islands,0,0
+Juda and Princes Islands,60666,Bight of Biafra and Gulf of Guinea islands,0,0
+"Juda, Epee, Princes Island, and Annobon",60667,Bight of Biafra and Gulf of Guinea islands,0,0
+Princes Island,60668,Bight of Biafra and Gulf of Guinea islands,7.35,1.56667
+Princes Island and Annobon,60669,Bight of Biafra and Gulf of Guinea islands,0,0
+Princes Island and Cape Lopez,60670,Bight of Biafra and Gulf of Guinea islands,0,0
+Princes Island and São Tomé,60671,Bight of Biafra and Gulf of Guinea islands,6.54352,0.25574
+"Principe, Cap Lopez, Annobon",60672,Bight of Biafra and Gulf of Guinea islands,0,0
+São Tomé,60673,Bight of Biafra and Gulf of Guinea islands,6.73333,0.33333
+São Tomé and Annobon,60674,Bight of Biafra and Gulf of Guinea islands,0,0
+São Tomé and Cape Lopez,60675,Bight of Biafra and Gulf of Guinea islands,0,0
+São Tomé or Princes Island,60676,Bight of Biafra and Gulf of Guinea islands,6.65947,0.1861
+Costa de Africa (mainland coast around S Tome/Principe),60677,Bight of Biafra and Gulf of Guinea islands,0,0
+"Bight of Biafra and Gulf of Guinea Islands, port unspecified",60699,Bight of Biafra and Gulf of Guinea islands,7.16667,4.43333
+Alecuba,60701,West Central Africa and St. Helena,0,0
+Ambona,60702,West Central Africa and St. Helena,0,0
+Ambriz,60703,West Central Africa and St. Helena,13.11667,-7.85
+Ambrizete,60704,West Central Africa and St. Helena,12.87,-7.23333
+"Barra de Cariba, Luanda",60705,West Central Africa and St. Helena,0,0
+Bengo,60706,West Central Africa and St. Helena,0,0
+Benguela,60707,West Central Africa and St. Helena,13.40722,-12.57833
+Benguela Velho,60708,West Central Africa and St. Helena,13.75,-10.7333
+Boary,60709,West Central Africa and St. Helena,11.84143,-4.72646
+Bomara,60710,West Central Africa and St. Helena,0,0
+Cabinda,60711,West Central Africa and St. Helena,12.2,-5.55
+Cabo Lopo Gonçalves,60712,West Central Africa and St. Helena,0,0
+Cape Mole,60713,West Central Africa and St. Helena,0,0
+Cape Padroon,60714,West Central Africa and St. Helena,0,0
+Coanza River,60715,West Central Africa and St. Helena,13.17567,-9.31811
+Congo North,60716,West Central Africa and St. Helena,10.38,-3.15469
+Congo River,60717,West Central Africa and St. Helena,12.97111,-5.89462
+Rio Zaire,60718,West Central Africa and St. Helena,12.97111,-5.89462
+Grenada Point,60719,West Central Africa and St. Helena,0,0
+Iron Point,60720,West Central Africa and St. Helena,0,0
+Kacongo,60721,West Central Africa and St. Helena,0,0
+Kilongo,60722,West Central Africa and St. Helena,11.34972,-4.10972
+Liverpool River,60723,West Central Africa and St. Helena,0,0
+Loango,60724,West Central Africa and St. Helena,11.8125,-4.65194
+Malembo,60725,West Central Africa and St. Helena,12.18333,-5.33333
+Mayumba,60726,West Central Africa and St. Helena,10.65,-3.41667
+Metrueba,60727,West Central Africa and St. Helena,0,0
+"Mossulo, Luanda",60728,West Central Africa and St. Helena,0,0
+Mpinda,60729,West Central Africa and St. Helena,12.51353,-6.137
+Nova Redonda,60730,West Central Africa and St. Helena,13.83333,-11.2
+Penido,60731,West Central Africa and St. Helena,0,0
+Quicombo,60732,West Central Africa and St. Helena,13.81667,-11.31667
+Salinas,60733,West Central Africa and St. Helena,13.35028,-12.61444
+Luanda,60734,West Central Africa and St. Helena,13.23444,-8.83833
+Rio Dande (N of Luanda),60735,West Central Africa and St. Helena,13.35,-8.46667
+St. Helena,60740,West Central Africa and St. Helena,-5.42,-15.57
+Soyo,60741,West Central Africa and St. Helena,12.3709,-6.12996
+"Ponta da Lenha, Congo River",60742,West Central Africa and St. Helena,-6.035625,12.805306
+"West Central Africa and St. Helena, port unspecified",60799,West Central Africa and St. Helena,13.23444,-8.83833
+Anghoza River,60801,Southeast Africa and Indian Ocean islands,0,0
+Cabo Delgado,60802,Southeast Africa and Indian Ocean islands,0,0
+Cape of Good Hope,60803,Southeast Africa and Indian Ocean islands,18.38333,-34.1
+Costa Leste Occidental,60805,Southeast Africa and Indian Ocean islands,0,0
+Ibo,60806,Southeast Africa and Indian Ocean islands,40.58333,-12.33333
+Inhambane,60807,Southeast Africa and Indian Ocean islands,35.38333,-23.865
+Quirimba,60808,Southeast Africa and Indian Ocean islands,40.61306,-12.43028
+Kilwa,60809,Southeast Africa and Indian Ocean islands,39.4,-8.75
+Lourenço Marques,60810,Southeast Africa and Indian Ocean islands,32.58917,-25.96528
+Madagascar,60811,Southeast Africa and Indian Ocean islands,43.954497,-24.789244
+Mauratan,60812,Southeast Africa and Indian Ocean islands,0,0
+Morondova,60813,Southeast Africa and Indian Ocean islands,0,0
+Port Dauphin,60814,Southeast Africa and Indian Ocean islands,0,0
+St. Mary's Island,60815,Southeast Africa and Indian Ocean islands,0,0
+Tulia,60816,Southeast Africa and Indian Ocean islands,0,0
+Mocambo,60817,Southeast Africa and Indian Ocean islands,0,0
+Momboza or Zanzibar,60819,Southeast Africa and Indian Ocean islands,0,0
+Mozambique,60820,Southeast Africa and Indian Ocean islands,40.73576,-15.03846
+"Pomba, Monfia",60821,Southeast Africa and Indian Ocean islands,0,0
+Quilimane,60822,Southeast Africa and Indian Ocean islands,36.88833,-17.87861
+Sofala,60823,Southeast Africa and Indian Ocean islands,34.73167,-20.155
+St. Lawrence,60824,Southeast Africa and Indian Ocean islands,0,0
+Zanzibar,60826,Southeast Africa and Indian Ocean islands,39.18333,-6.16667
+Mascarene Islands,60831,Southeast Africa and Indian Ocean islands,56.64221,-20.77758
+Bourbon,60832,Southeast Africa and Indian Ocean islands,0,0
+Ile de France,60833,Southeast Africa and Indian Ocean islands,57.56025,-20.32864
+Port-Louis,60834,Southeast Africa and Indian Ocean islands,0,0
+Johanna Island,60836,Southeast Africa and Indian Ocean islands,44.42,-12.22
+Mauritius (Ile de France),60837,Southeast Africa and Indian Ocean islands,0,0
+"Ascension, Assomption, and Bourbon",60838,Southeast Africa and Indian Ocean islands,0,0
+"Southeast Africa and Indian Ocean islands, port unspecified",60899,Southeast Africa and Indian Ocean islands,39.51,-17.14
+Princes Island and Elmina,60901,Other Africa,0,0
+Angola (possibly New Calabar),60902,Other Africa,0,0
+Senegambia or Sierra Leone,60903,Other Africa,0,0
+West of Cape Apolonia,60908,Other Africa,0,0
+Angola to Ardra,60909,Other Africa,0,0
+Windward + Ivory + Gold + Benin,60912,Other Africa,0,0
+C.C. Castle and Windward,60913,Other Africa,0,0
+Gold Coast + Bight of Benin + Bight of Biafra,60914,Other Africa,0,0
+Bights,60915,Other Africa,5.99,4.26565
+Windward Coast (Nunez - Assini),60916,Other Africa,0,0
+"Gold Coast, Fr. definition",60917,Other Africa,0,0
+Causacoo (location undetermined),60981,Other Africa,0,0
+Cape St Martha (location undetermined),60982,Other Africa,0,0
+Casnasonis (location undetermined),60983,Other Africa,0,0
+Massa (location undetermined),60984,Other Africa,0,0
+Touau-Toro (location undetermined),60985,Other Africa,0,0
+Cape Logas (location undetermined),60986,Other Africa,0,0
+"Africa., port unspecified",60999,Other Africa,9.343897,0.054033
+"East Indies, port unspecified",80199,East Indies,0,0
+"Americas, region unspecified",80200,Americas,0,0
+"Guecka, location undetermined",80201,Americas,0.0001235,0.0001235
+"Rocus, location undetermined",80202,Americas,0.0001235,0.0001235
+"Kalas, location undetermined",80203,Americas,0.0001235,0.0001235
+"Imfors Bay, location undetermined",80204,Americas,0.0001235,0.0001235
+"Marrader (Morada?), location undetermined",80205,Americas,0.0001235,0.0001235
+"Americas, port unspecified",80299,Americas,0,0
+"Asia e Africa, port unspecified",80399,Asia e Africa,0,0
+"Spanish American Mainland, port unspecified",80401,Spanish Americas,0.0001235,0.0001235
+"Spanish Americas, port unspecified",80499,Spanish Americas,-75.479426,10.391049
+"Kingston, Savannah, Maryland",80501,British Americas,0,0
+"British Americas, port unspecified",80599,British Americas,0,0
+Bengal,80601,India,-77.45,18.45
+Goa,80602,India,0,0
+Calcutta,80603,India,0,0
+Basse Indres,80604,India,-1.67,47.2
+"India, port unspecified",80699,India,0,0
+British plantations,80703,Non-geographical,0,0
+Non-British,80704,Non-geographical,0,0
+Captured by WIC,80705,Non-geographical,0,0
+Captured interloper,80706,Non-geographical,0,0
+Prize (unknown place),80707,Non-geographical,0,0
+Prize (taken from Dutch),80708,Non-geographical,0,0
+Prize (taken from French),80709,Non-geographical,0,0
+Prize (taken from Spanish),80710,Non-geographical,0,0
+Sold at sea to another vessel,80711,Non-geographical,0,0
+wreck,80712,Non-geographical,0,0
+Slaves rescued at sea from a shipwreck,80713,Non-geographical,0.0001235,0.0001235
+Prize (taken from Portuguese),80714,Non-geographical,0.0001235,0.0001235
+Prize (taken from USA),80715,Non-geographical,0.0001235,0.0001235
+Taken at sea from pirates,80716,Non-geographical,0.0001235,0.0001235
+Seized at sea by Spanish officials,80717,Non-geographical,0.0001235,0.0001235
+"Other, non Geographical",80799,Non-geographical,0.0001235,0.0001235
